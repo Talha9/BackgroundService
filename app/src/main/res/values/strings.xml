@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BackgroundService</string>
+    <string name="Close">Close</string>
+</resources>
